@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KotlinWidgets</string>
+    <string-array name="jsLibraries">
+        <item>ReactJS</item>
+        <item>Slick</item>
+        <item>Popper</item>
+        <item>JQuery</item>
+        <item>Moment</item>
+    </string-array>
+    <string-array name="ides">
+        <item>VisualStudio</item>
+        <item>Codeblocks</item>
+        <item>Intellij</item>
+        <item>Xcode</item>
+        <item>Eclipse</item>
+    </string-array>
+</resources>
